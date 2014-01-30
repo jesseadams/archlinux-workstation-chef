@@ -4,7 +4,7 @@ description 'ArchLinux Workstation'
 default_attributes(
   'archlinux' => {
     'packages' => [
-      'alsa',
+      'alsa-lib',
       'alsa-utils',
       'awesome',
       'cups',

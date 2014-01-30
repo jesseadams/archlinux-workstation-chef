@@ -5,4 +5,4 @@ cookbook_path [
   BASE_DIR + '/vendor/cookbooks'
 ]
 
-role_path BASE_DIR = '/roles'
+role_path BASE_DIR + '/roles'
