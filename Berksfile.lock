@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "pacman": {
+      "path": "../pacman"
+    },
+    "arch_workstation": {
+      "path": "./cookbooks/arch_workstation"
+    }
+  }
+}
